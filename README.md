@@ -4,6 +4,6 @@ Responsive Furniture Site (Rofota)
 - Developed using mobile view first
 - Compatible with all devices
 
-Inspired by https://www.youtube.com/watch?v=VCRRdWcaH-c&list=PL-XH0r9ri_4ycVGgbK0nSXX0EtAqAZNEM
+Inspired by https://youtu.be/VCRRdWcaH-c
 
-![Furniture Site (Rofota)](https://user-images.githubusercontent.com/84783480/158012048-b3feedf4-d1dc-4bd0-8809-44373052d473.png)
+![Furniture Site (Rofota)](https://user-images.githubusercontent.com/84783480/158066640-e6a6d13d-f378-4876-b9d3-74b72b124590.png)
